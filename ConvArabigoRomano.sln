@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvArabigoRomano", "ConvArabigoRomano\ConvArabigoRomano.csproj", "{482C7D28-12FF-4D15-983D-35DABA336FB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabicUnitTest", "ArabicUnitTest\ArabicUnitTest.csproj", "{46C290F2-BDBD-447B-80FB-D641907025BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{482C7D28-12FF-4D15-983D-35DABA336FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{482C7D28-12FF-4D15-983D-35DABA336FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{482C7D28-12FF-4D15-983D-35DABA336FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C290F2-BDBD-447B-80FB-D641907025BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C290F2-BDBD-447B-80FB-D641907025BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C290F2-BDBD-447B-80FB-D641907025BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C290F2-BDBD-447B-80FB-D641907025BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
