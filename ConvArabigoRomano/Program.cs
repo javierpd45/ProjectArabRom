@@ -10,6 +10,9 @@ namespace ConvArabigoRomano
     {
         static void Main(string[] args)
         {
+            int intNum = 1500;
+            ConversorNum conversorNum = new ConversorNum();
+            Console.WriteLine(conversorNum.ConvertArabicRoman(intNum));
         }
     }
 }
